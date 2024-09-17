@@ -345,8 +345,8 @@ public class Main {
     }
     public void win(){
         System.out.println("\n--------------------------------------------------\n ");
-        System.out.println("You killed the goblin!");
-        System.out.println("The goblin dropped a ring!");
+        System.out.println("You killed the goblin!!");
+        System.out.println("The goblin dropped a ring");
         System.out.println("You obtained the ring\n\n");
         System.out.println("1: Go back to the crossroads");
         System.out.println("\n--------------------------------------------------\n ");
