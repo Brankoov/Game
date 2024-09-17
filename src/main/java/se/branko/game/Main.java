@@ -341,7 +341,7 @@ public class Main {
         System.out.println("\n--------------------------------------------------\n ");
 
         choice = scan.nextInt();
-       //INTE KLART
+       //INTE KLART!
     }
     public void win(){
         System.out.println("\n--------------------------------------------------\n ");
